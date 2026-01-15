@@ -194,6 +194,7 @@ The Tableau dashboard enables stakeholders to monitor high-level sales KPIs, com
 ## 📁 Repository Structure
 
 
+```
 📦 Sales Performance & Territory Optimization
 ├── 📂 data/              # Raw and processed datasets
 ├── 📂 sql/               # SQL scripts for data modeling
@@ -202,7 +203,7 @@ The Tableau dashboard enables stakeholders to monitor high-level sales KPIs, com
 ├── 📂 dashboard/         # Dashboard assets
 ├── 📂 reports/           # Analysis reports
 └── 📄 README.md          # Project documentation
-
+```
 
 ---
 
